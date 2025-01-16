@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning CS @ LSU
 - 💞️ I’m looking to collaborate on open source projects
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can kickflip on a skatebaord
+- ⚡ Fun fact: I can kickflip on a skateboard
 
